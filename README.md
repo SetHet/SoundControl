@@ -1,5 +1,6 @@
 ### Teach me the bases
 Thank you ❤️ https://programacionpython80889555.wordpress.com/2023/02/02/graficando-senales-de-audio-con-wave-y-matplotlib/
+Thank you ❤️ https://gist.github.com/astrojuanlu/3804365
 
 
 ## Guide
